@@ -1,7 +1,6 @@
 # Rust Crash Course
 
-> Some fundamental syntax of the Rust language. This is from the Traversy Media "Rust Crash Course" on YouTube
-
+> Some fundamental syntax of the Rust language. 
 ## Quick Start
 Un-comment the file function to run
 
